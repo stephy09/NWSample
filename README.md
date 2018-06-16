@@ -1,2 +1,2 @@
 # NWSample
-For sample project
+For sample project. Nightwatch
